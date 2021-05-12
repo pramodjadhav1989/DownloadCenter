@@ -1,0 +1,7 @@
+D:\Repository\DownCenter\KWIKDwnCenter\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\Repository\DownCenter\KWIKDwnCenter\WindowsService1\bin\Debug\WindowsService1.exe
+D:\Repository\DownCenter\KWIKDwnCenter\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\Repository\DownCenter\KWIKDwnCenter\WindowsService1\obj\Debug\KWI.csprojAssemblyReference.cache
+D:\Repository\DownCenter\KWIKDwnCenter\WindowsService1\obj\Debug\KWI.csproj.CoreCompileInputs.cache
+D:\Repository\DownCenter\KWIKDwnCenter\WindowsService1\obj\Debug\WindowsService1.exe
+D:\Repository\DownCenter\KWIKDwnCenter\WindowsService1\obj\Debug\WindowsService1.pdb

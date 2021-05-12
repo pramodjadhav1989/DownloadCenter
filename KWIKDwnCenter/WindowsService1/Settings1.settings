@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsService1" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="Connection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Password=cl053_dO0r;Persist Security Info=False;User ID=appUser;Initial Catalog=Report;Data Source=192.168.99.174,24115;trusted_connection=False;Connection Timeout=0</Value>
+    </Setting>
+    <Setting Name="Folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C://reports/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
